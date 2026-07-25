@@ -25,7 +25,6 @@
 - 🧩 Deep experience with **modular monolith**, **microservice**, and **micro frontend** architectures
 - 🔐 Focused on designing **secure, scalable** systems
 - 🎓 Passionate about **mentoring teams** in modern development practices
-- 💼 Seeking roles that value innovation and excellence in software engineering
 - 🏢 Currently @ **Ascertra** · 📍 Bangalore, India
 
 ### 🏛️ Architecture & Specialties
