@@ -73,6 +73,14 @@
   <img src="https://streak-stats.demolab.com/?user=harshar1987&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 🌍 Open Source Contributions
+
+_Merged pull requests to public repos I don't own — auto-tallied from my GitHub activity._
+
+<!-- OSS-CONTRIBUTIONS:START -->
+_updates automatically — will populate after the next scheduled run_
+<!-- OSS-CONTRIBUTIONS:END -->
+
 ### ⭐ Recently Starred
 
 _Repos I've starred recently — a running log of what I'm reading, learning, and keeping an eye on._
