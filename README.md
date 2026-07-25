@@ -3,7 +3,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Software+Architect+%F0%9F%8F%97%EF%B8%8F;15%2B+Years+Building+Enterprise+SaaS%C2%A0on%C2%A0Azure+%E2%98%81%EF%B8%8F;Domain-Driven+Design+%F0%9F%A7%A9;Microservices+%26+Micro+Frontends+%F0%9F%94%AC;Legacy+Modernization+%E2%9C%A8;Mentoring+Engineering+Teams+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Software+Architect+%F0%9F%8F%97%EF%B8%8F;15%2B+Years+Building+Enterprise+SaaS%C2%A0on%C2%A0Azure+%E2%98%81%EF%B8%8F;Domain-Driven+Design+%F0%9F%A7%A9;Microservices+%26+Micro+Frontends+%F0%9F%94%AC;Legacy+Modernization+%E2%9C%A8;AI-First+Engineering+%26+AIDLC+%F0%9F%A4%96;Harness+Engineering+%26+PromptOps+%F0%9F%A7%B0;Mentoring+Engineering+Teams+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@
 - 🔁 Specialize in **legacy modernization**, **Domain-Driven Design**, and **API design**
 - 🧩 Deep experience with **modular monolith**, **microservice**, and **micro frontend** architectures
 - 🔐 Focused on designing **secure, scalable** systems
+- 🤖 Recently focused on **AI-first engineering**, **AIDLC**, **harness engineering**, and **PromptOps**
 - 🎓 Passionate about **mentoring teams** in modern development practices
 - 🏢 Currently @ **Ascertra** · 📍 Bangalore, India
 
@@ -38,6 +39,15 @@
   <img src="https://img.shields.io/badge/Legacy%20Modernization-1E1E2E?style=for-the-badge" alt="Legacy Modernization" />
   <img src="https://img.shields.io/badge/Secure%20%26%20Scalable%20Systems-1E1E2E?style=for-the-badge" alt="Secure & Scalable Systems" />
   <img src="https://img.shields.io/badge/Team%20Mentoring-1E1E2E?style=for-the-badge" alt="Team Mentoring" />
+</p>
+
+### 🤖 AI-First Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AIDLC-6a11cb?style=for-the-badge" alt="AIDLC" />
+  <img src="https://img.shields.io/badge/AI--First%20Engineering-6a11cb?style=for-the-badge" alt="AI-First Engineering" />
+  <img src="https://img.shields.io/badge/Harness%20Engineering-6a11cb?style=for-the-badge" alt="Harness Engineering" />
+  <img src="https://img.shields.io/badge/PromptOps-6a11cb?style=for-the-badge" alt="PromptOps" />
 </p>
 
 ### 🛠️ Tech Stack
