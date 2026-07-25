@@ -78,11 +78,15 @@
   <img src="https://streak-stats.demolab.com/?user=harshar1987&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🏆 Trophies
+### ⭐ Recently Starred
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshar1987&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+_Repos I've starred recently — a running log of what I'm reading, learning, and keeping an eye on._
+
+<!-- STARRED-REPOS:START -->
+| Repo | Description | Stars |
+| --- | --- | --- |
+| _updates automatically — will populate after the next scheduled run_ | | |
+<!-- STARRED-REPOS:END -->
 
 ### 📈 Contribution Snake
 
