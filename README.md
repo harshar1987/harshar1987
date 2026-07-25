@@ -78,7 +78,11 @@
 _Merged pull requests to public repos I don't own — auto-tallied from my GitHub activity._
 
 <!-- OSS-CONTRIBUTIONS:START -->
-_updates automatically — will populate after the next scheduled run_
+**1 merged pull request** to public repos I don't own.
+
+| Repo | Merged PRs |
+| --- | --- |
+| [kevinchappell/formBuilder](https://github.com/kevinchappell/formBuilder) | 1 |
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ### ⭐ Recently Starred
