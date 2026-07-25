@@ -67,12 +67,7 @@
 
 > ✏️ Swap or extend these badges to match your actual stack — see [shields.io](https://shields.io) and [simple-icons](https://simpleicons.org) for more.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshar1987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshar1987&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=harshar1987&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -87,12 +82,6 @@ _Repos I've starred recently — a running log of what I'm reading, learning, an
 | --- | --- | --- |
 | _updates automatically — will populate after the next scheduled run_ | | |
 <!-- STARRED-REPOS:END -->
-
-### 📈 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshar1987/harshar1987/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
 ---
 
