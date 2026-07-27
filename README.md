@@ -92,16 +92,16 @@ _Repos I've starred recently — a running log of what I'm reading, learning, an
 <!-- STARRED-REPOS:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application `JavaScript` | ⭐ 13878 |
-| [haydenbleasel/blume](https://github.com/haydenbleasel/blume) | World-class docs for everything you ship. Fast, AI-ready, and zero-config. `TypeScript` | ⭐ 960 |
-| [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  `JavaScript` | ⭐ 484 |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. `Python` | ⭐ 62375 |
-| [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. `Python` | ⭐ 18941 |
-| [NVIDIA-AI-IOT/jetson-bsp-skills](https://github.com/NVIDIA-AI-IOT/jetson-bsp-skills) | Agentic Skills for Jetson BSP Customization `Standard ML` | ⭐ 40 |
-| [NVIDIA-AI-IOT/jetson-device-skills](https://github.com/NVIDIA-AI-IOT/jetson-device-skills) | Foundational Agent Skills for NVIDIA Jetson Device `Shell` | ⭐ 81 |
-| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference `TypeScript` | ⭐ 21919 |
-| [searxng/searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. `Python` | ⭐ 34404 |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. `TypeScript` | ⭐ 80798 |
+| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application `JavaScript` | ⭐ 13880 |
+| [haydenbleasel/blume](https://github.com/haydenbleasel/blume) | World-class docs for everything you ship. Fast, AI-ready, and zero-config. `TypeScript` | ⭐ 969 |
+| [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  `JavaScript` | ⭐ 508 |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. `Python` | ⭐ 62657 |
+| [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. `Python` | ⭐ 19411 |
+| [NVIDIA-AI-IOT/jetson-bsp-skills](https://github.com/NVIDIA-AI-IOT/jetson-bsp-skills) | Agentic Skills for Jetson BSP Customization `Standard ML` | ⭐ 41 |
+| [NVIDIA-AI-IOT/jetson-device-skills](https://github.com/NVIDIA-AI-IOT/jetson-device-skills) | Foundational Agent Skills for NVIDIA Jetson Device `Shell` | ⭐ 84 |
+| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference `TypeScript` | ⭐ 21949 |
+| [searxng/searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. `Python` | ⭐ 34477 |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. `TypeScript` | ⭐ 80835 |
 <!-- STARRED-REPOS:END -->
 
 ---
