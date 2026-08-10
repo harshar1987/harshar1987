@@ -92,16 +92,16 @@ _Repos I've starred recently — a running log of what I'm reading, learning, an
 <!-- STARRED-REPOS:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | The most RAM efficient harness `Rust` | ⭐ 15338 |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors `TypeScript` | ⭐ 38109 |
-| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application `JavaScript` | ⭐ 13897 |
-| [haydenbleasel/blume](https://github.com/haydenbleasel/blume) | World-class docs for everything you ship. Fast, AI-ready, and zero-config. `TypeScript` | ⭐ 1041 |
-| [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  `JavaScript` | ⭐ 595 |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. `Python` | ⭐ 64141 |
-| [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. `Python` | ⭐ 21732 |
-| [NVIDIA-AI-IOT/jetson-bsp-skills](https://github.com/NVIDIA-AI-IOT/jetson-bsp-skills) | Agentic Skills for Jetson BSP Customization `Standard ML` | ⭐ 44 |
-| [NVIDIA-AI-IOT/jetson-device-skills](https://github.com/NVIDIA-AI-IOT/jetson-device-skills) | Foundational Agent Skills for NVIDIA Jetson Device `Shell` | ⭐ 104 |
-| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference `TypeScript` | ⭐ 22024 |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies `Rust` | ⭐ 75392 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" `Python` | ⭐ 22837 |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | The most RAM efficient harness `Rust` | ⭐ 16649 |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors `TypeScript` | ⭐ 44418 |
+| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application `JavaScript` | ⭐ 13915 |
+| [haydenbleasel/blume](https://github.com/haydenbleasel/blume) | World-class docs for everything you ship. Fast, AI-ready, and zero-config. `TypeScript` | ⭐ 1096 |
+| [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  `JavaScript` | ⭐ 683 |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. `Python` | ⭐ 65676 |
+| [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. `Python` | ⭐ 23122 |
+| [NVIDIA-AI-IOT/jetson-bsp-skills](https://github.com/NVIDIA-AI-IOT/jetson-bsp-skills) | Agentic Skills for Jetson BSP Customization `Standard ML` | ⭐ 46 |
 <!-- STARRED-REPOS:END -->
 
 ---
