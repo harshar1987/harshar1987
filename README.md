@@ -92,16 +92,16 @@ _Repos I've starred recently — a running log of what I'm reading, learning, an
 <!-- STARRED-REPOS:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents `Python` | ⭐ 4037 |
-| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development `Python` | ⭐ 129589 |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies `Rust` | ⭐ 76306 |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" `Python` | ⭐ 22938 |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | The most RAM efficient harness `Rust` | ⭐ 17766 |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors `TypeScript` | ⭐ 49246 |
-| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application `JavaScript` | ⭐ 13938 |
-| [haydenbleasel/blume](https://github.com/haydenbleasel/blume) | World-class docs for everything you ship. Fast, AI-ready, and zero-config. `TypeScript` | ⭐ 1187 |
-| [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  `JavaScript` | ⭐ 785 |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. `Python` | ⭐ 66548 |
+| [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) | Reference parser and interpreter for the Dogwood policy language `Rust` | ⭐ 354 |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents `Python` | ⭐ 4136 |
+| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development `Python` | ⭐ 130988 |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies `Rust` | ⭐ 77184 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" `Python` | ⭐ 23032 |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | The most RAM efficient harness `Rust` | ⭐ 18368 |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors `TypeScript` | ⭐ 53934 |
+| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application `JavaScript` | ⭐ 13954 |
+| [haydenbleasel/blume](https://github.com/haydenbleasel/blume) | World-class docs for everything you ship. Fast, AI-ready, and zero-config. `TypeScript` | ⭐ 1329 |
+| [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  `JavaScript` | ⭐ 895 |
 <!-- STARRED-REPOS:END -->
 
 ---
