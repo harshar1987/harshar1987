@@ -92,16 +92,16 @@ _Repos I've starred recently — a running log of what I'm reading, learning, an
 <!-- STARRED-REPOS:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) | Reference parser and interpreter for the Dogwood policy language `Rust` | ⭐ 354 |
-| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents `Python` | ⭐ 4136 |
-| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development `Python` | ⭐ 130988 |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies `Rust` | ⭐ 77184 |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" `Python` | ⭐ 23032 |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | The most RAM efficient harness `Rust` | ⭐ 18368 |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors `TypeScript` | ⭐ 53934 |
-| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application `JavaScript` | ⭐ 13954 |
-| [haydenbleasel/blume](https://github.com/haydenbleasel/blume) | World-class docs for everything you ship. Fast, AI-ready, and zero-config. `TypeScript` | ⭐ 1329 |
-| [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) | Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠  `JavaScript` | ⭐ 895 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. `JavaScript` | ⭐ 91022 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. `JavaScript` | ⭐ 36453 |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | Supercharge Your LLM Application Evaluations 🚀 `Python` | ⭐ 15557 |
+| [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) | Reference parser and interpreter for the Dogwood policy language `Rust` | ⭐ 375 |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents `Python` | ⭐ 4227 |
+| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development `Python` | ⭐ 132417 |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies `Rust` | ⭐ 78005 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" `Python` | ⭐ 23119 |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | The most RAM efficient harness `Rust` | ⭐ 18855 |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors `TypeScript` | ⭐ 58909 |
 <!-- STARRED-REPOS:END -->
 
 ---
