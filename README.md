@@ -92,16 +92,16 @@ _Repos I've starred recently — a running log of what I'm reading, learning, an
 <!-- STARRED-REPOS:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | Your always-on AI coworkers that move between text, calls, and Slack. `TypeScript` | ⭐ 4978 |
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | The LLM Evaluation Framework `Python` | ⭐ 18762 |
-| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own `Python` | ⭐ 8979 |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | from vibe coding to agentic engineering - practice makes claude perfect `HTML` | ⭐ 67433 |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants. `TypeScript` | ⭐ 71700 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA `TypeScript` | ⭐ 136080 |
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents `Jupyter Notebook` | ⭐ 76971 |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. `Python` | ⭐ 56976 |
-| [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) | better agentic engineering `TypeScript` | ⭐ 4321 |
-| [cline/cline](https://github.com/cline/cline) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. `TypeScript` | ⭐ 70203 |
+| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | Your always-on AI coworkers that move between text, calls, and Slack. `TypeScript` | ⭐ 5586 |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | The LLM Evaluation Framework `Python` | ⭐ 18947 |
+| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own `Python` | ⭐ 9303 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | from vibe coding to agentic engineering - practice makes claude perfect `HTML` | ⭐ 67725 |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants. `TypeScript` | ⭐ 72368 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA `TypeScript` | ⭐ 136892 |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents `Jupyter Notebook` | ⭐ 77444 |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. `Python` | ⭐ 57973 |
+| [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) | better agentic engineering `TypeScript` | ⭐ 4342 |
+| [cline/cline](https://github.com/cline/cline) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. `TypeScript` | ⭐ 70534 |
 <!-- STARRED-REPOS:END -->
 
 ---
