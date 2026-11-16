@@ -92,16 +92,16 @@ _Repos I've starred recently — a running log of what I'm reading, learning, an
 <!-- STARRED-REPOS:START -->
 | Repo | Description | Stars |
 | --- | --- | --- |
-| [HeyPuter/everything](https://github.com/HeyPuter/everything) | We're rebuilding and open-sourcing the world’s software from scratch. `JavaScript` | ⭐ 7741 |
-| [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. `Python` | ⭐ 13784 |
-| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | Your always-on AI coworkers that move between text, calls, and Slack. `TypeScript` | ⭐ 6480 |
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | The LLM Evaluation Framework `Python` | ⭐ 19381 |
-| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own `Python` | ⭐ 9907 |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | from vibe coding to agentic engineering - practice makes claude perfect `HTML` | ⭐ 68864 |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants. `TypeScript` | ⭐ 74373 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA `TypeScript` | ⭐ 140870 |
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents `Jupyter Notebook` | ⭐ 79249 |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. `Python` | ⭐ 60214 |
+| [HeyPuter/everything](https://github.com/HeyPuter/everything) | We're rebuilding and open-sourcing the world’s software from scratch. `JavaScript` | ⭐ 8495 |
+| [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. `Python` | ⭐ 13801 |
+| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | Your always-on AI coworkers that move between text, calls, and Slack. `TypeScript` | ⭐ 6622 |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | The LLM Evaluation Framework `Python` | ⭐ 19507 |
+| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own `Python` | ⭐ 10006 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | from vibe coding to agentic engineering - practice makes claude perfect `HTML` | ⭐ 69095 |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants. `TypeScript` | ⭐ 74962 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA `TypeScript` | ⭐ 141756 |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents `Jupyter Notebook` | ⭐ 79790 |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. `Python` | ⭐ 60741 |
 <!-- STARRED-REPOS:END -->
 
 ---
